@@ -17,9 +17,10 @@ body{
     display:block;  
     justify-content:center;
     align-items:center;
-    width:100%;
+    width:80%;
     max-width:100%;
     height:auto;
+    margin-left:12%;
   }
   
   #img-caption{
